@@ -1,6 +1,10 @@
 import streamlit as st
 import json
 from sentence_transformers import SentenceTransformer
+import torch
+
+model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
+
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
