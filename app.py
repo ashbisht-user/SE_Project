@@ -1,9 +1,12 @@
+pip install torch==2.3.0
 import streamlit as st
 import json
 from sentence_transformers import SentenceTransformer
 import torch
 
-model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
+
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
