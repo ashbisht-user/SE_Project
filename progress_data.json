@@ -1,23 +1,9 @@
 {
     "Data Scientist": {
-        "Build predictive models using scikit-learn (regression, classification, clustering)": "In Progress",
-        "Master feature engineering, cross-validation, and model evaluation metrics": "Completed",
-        "Learn advanced visualization with Tableau/Power BI": "Completed",
-        "Work on 3-5 end-to-end projects from data collection to insights presentation": "Completed",
-        "Create a GitHub portfolio showcasing diverse data science projects": "Completed"
-    },
-    "Financial Analyst": {
-        "Master accounting fundamentals: income statement, balance sheet, cash flow": "Completed",
-        "Learn Excel thoroughly (formulas, pivot tables, VLOOKUP, charts)": "Not Started",
-        "Understand financial metrics (ratios, margins, ROI, EBITDA)": "In Progress",
-        "Study basic valuation concepts and time value of money": "Not Started",
-        "Complete financial modeling courses and analyze 5+ public company financials": "Completed"
-    },
-    "Cybersecurity Specialist": {
-        "Master penetration testing tools (Metasploit, Burp Suite, Nmap, Wireshark)": "Not Started",
-        "Learn cryptography, secure coding practices, and security frameworks (NIST, ISO 27001)": "Completed",
-        "Practice 10+ intermediate CTFs and build a home security lab": "Not Started",
-        "Specialize in web app security, network security, or malware analysis": "Not Started",
-        "Obtain CEH or OSCP certification": "Not Started"
+        "Specialize in deep learning, time series forecasting, or causal inference": "Completed",
+        "Learn big data tools (Spark) and cloud platforms (AWS/GCP)": "Completed",
+        "Deploy ML models in production using Docker, APIs, and monitoring tools": "In Progress",
+        "Lead business-critical projects and communicate insights to stakeholders": "Not Started",
+        "Mentor junior data scientists and contribute to DS communities": "Not Started"
     }
 }
